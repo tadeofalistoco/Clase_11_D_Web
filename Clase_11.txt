@@ -1,0 +1,8 @@
+GIT-HUB
+
+Pasos de la clase:
+1- Creamos una carpeta, en este caso Clase_11
+2- Nos posicionamos en esa carpeta en git bash
+3- Inicializamos la carpeta con git init (creamos un repositorio)
+4- Hacemos git status para ver la lista de archivos dentro de la carpeta y en cual de los 3 estados de git estan
+5- Agregamos los archivos al repositorio con git add
